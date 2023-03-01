@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestParcing", "TestParcing\TestParcing.csproj", "{A28CD560-1E51-4027-A7A1-370DE1F4E571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A28CD560-1E51-4027-A7A1-370DE1F4E571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28CD560-1E51-4027-A7A1-370DE1F4E571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28CD560-1E51-4027-A7A1-370DE1F4E571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28CD560-1E51-4027-A7A1-370DE1F4E571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD1B415D-FE3B-4062-AE38-4E7AE9E32B2C}
+	EndGlobalSection
+EndGlobal
